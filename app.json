@@ -1,0 +1,16 @@
+{
+  "name": "learnReactNative",
+  "displayName": "learnReactNative",
+  "orientation": "portrait",
+  "platforms": [
+    "ios",
+    "android",
+    "web"
+  ],
+  "icon": "./app/assets/icon.png",
+  "splash": {
+    "image": "./app/assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#fff"
+  }
+}
